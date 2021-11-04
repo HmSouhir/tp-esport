@@ -1,0 +1,14 @@
+.error_title {
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
+  color: #343a40;
+  margin-bottom: 5px;
+}
+
+.error_container {
+  margin: 50px;
+}
+
+.error_container .ant-card-head-title {
+  white-space: normal !important;
+  text-align: center;
+}

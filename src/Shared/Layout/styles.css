@@ -1,0 +1,25 @@
+.content_container {
+  padding: 24px 0;
+  margin: 0;
+  background-color: #E6E6FA;
+}
+
+.ant-layout {
+  min-height: 100vh;
+}
+
+.ant-page-header {
+  background-color: #301934;
+}
+
+.header-title {
+  color: white;
+}
+
+.ant-page-header-heading-extra {
+  width: 600px;
+}
+.dropdownMenu {
+  width: 50%;
+}
+
